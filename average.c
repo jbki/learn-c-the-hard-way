@@ -12,5 +12,4 @@ int main(int argc, char *argv[])
 	printf("Average student scores: %d\n", total/size);
 
 	return 0;
-
 }
